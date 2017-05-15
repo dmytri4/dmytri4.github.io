@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+  line-height: 1.35;
+  color: #000;
+}
